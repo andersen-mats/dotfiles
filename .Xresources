@@ -1,0 +1,39 @@
+xterm*faceName: Source Code Pro Medium
+xterm*faceSize: 14
+xterm*dynamicTitle: false
+! Terminal colors
+XTerm*background:  #000000
+XTerm*foreground:  #ffffff 
+XTerm*cursorColor: #c5c8c6
+
+! Black
+XTerm*color0:  #1d1f21
+XTerm*color8:  #969896
+
+! Red
+XTerm*color1:  #cc6666
+XTerm*color9:  #cc6666
+
+! Green
+XTerm*color2:  #b5bd68
+XTerm*color10: #b5bd68
+
+! Yellow
+XTerm*color3:  #f0c674
+XTerm*color11: #f0c674
+
+! Blue
+XTerm*color4:  #81a2be
+XTerm*color12: #81a2be
+
+! Magenta
+XTerm*color5:  #b294bb
+XTerm*color13: #b294bb
+
+! Cyan
+XTerm*color6:  #8abeb7
+XTerm*color14: #8abeb7
+
+! White
+XTerm*color7:  #c5c8c6
+XTerm*color15: #ffffff
